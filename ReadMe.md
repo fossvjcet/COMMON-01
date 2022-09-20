@@ -1,8 +1,17 @@
 - MAT101 - Linear Algebra and Calculus
-  - Mrs. Jinta Jose
+    - Mrs. Jinta Jose
 - EST 100 - Engineering Mechanics
-  - Mrs. Bijimol Joseph
+    - Mrs. Bijimol Joseph
 - EST120 - Basics of Civil & Mechanical Engineering
-  - Mrs. Soumya Rani P. Thomas
+    - Mrs. Soumya Rani P. Thomas
 - EST130 - Basics of Electrical & Electronics Engineering
-  - Ms. Mereya Baby
+    - Ms. Mereya Baby
+    - Mrs. Manju Thomas T
+- CYT100 - Engineering Chemistry
+    - Mrs. Ansu Ann Abraham
+- EST110 - Engineering Graphics
+    - Mr. Abraham Antony
+- PHT110 - Engineering Physics A
+    - Mrs.Riya Sebastian
+- EST102 - Programming in C
+    - Mrs. Mayadevi P A
